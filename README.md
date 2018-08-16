@@ -11,6 +11,7 @@
 </p>
 
 <img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
+<img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px">
 
 Neofetch是一个用`bash 3.2+`写的命令行信息工具. Neofetch 能输出你的操作系统信息, 软件和硬件信息以审美和视觉上令人愉悦的方式表现出来。
 
@@ -18,7 +19,7 @@ Neofetch的主要目的是用于输出一屏幕系统信息. Neofetch 输出人�
 
 输出的系统信息默认在你的操作系统logo一旁. 你可以进一步配置 Neofetch 用一张图片替代, 通俗的ASCII文件,你的壁纸或者其他东西
 
-<img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px">
+
 
 你可以进一步配置Neofetch用于准确得显示你想要的,通过命令行的配置文件，你更改现有的信息输出或者增加自定义输出
 
