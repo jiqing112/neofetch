@@ -10,7 +10,7 @@
 <a href="#donate"><img src="https://img.shields.io/badge/donate-donate-yellow.svg"></a>
 </p>
 
-<img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="right" height="240px">
+<img src="https://i.imgur.com/GFmC5Ad.png" alt="neofetch" align="left" height="240px">
 
 Neofetch是一个用`bash 3.2+`写的命令行信息工具. Neofetch 能输出你的操作系统信息, 软件和硬件信息以审美和视觉上令人愉悦的方式表现出来。
 
