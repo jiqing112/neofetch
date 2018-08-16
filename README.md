@@ -14,8 +14,8 @@
 
 　　Neofetch是一个用`bash 3.2+`写的命令行信息工具. Neofetch 能输出你的操作系统信息, 软件和硬件信息以审美和视觉上令人愉悦的方式表现出来。
 
-　　Neofetch的主要目的是用于输出一屏幕系统信息. Neofetch 输出人们愿意看的信息. 他还有其他一些有用的工具用于和是的系统统计和诊断
-　　输出的系统信息默认在你的操作系统logo一旁. 你可以进一步配置 Neofetch 用一张图片替代, 通俗的ASCII文件,你的壁纸或者其他东西  
+　　Neofetch的主要目的是用于输出一屏幕系统信息. Neofetch 输出人们愿意看的信息. 他还有其他一些有用的工具用于和是的系统统计和诊断  
+  　　输出的系统信息默认在你的操作系统logo一旁. 你可以进一步配置 Neofetch 用一张图片替代, 通俗的ASCII文件,你的壁纸或者其他东西  
 
 <img src="https://i.imgur.com/lUrkQBN.png" alt="neofetch" align="right" height="240px">  
 
