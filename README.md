@@ -24,7 +24,9 @@ Neofetch的主要目的是用于输出一屏幕系统信息. Neofetch 输出人�
 
 Neofetch支持150中不同的操作系统.从 Linux 到 Windows, 还有一些更加小众的操作系统比如 Minix, AIX 和 Haiku. 如果你最爱的操作系统没有被资词: 在这个(原)项目下开一个 issue,你的请求会被很快响应.
 
-
+  
+    
+    
 ### 更多信息: \[[依赖](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[安装](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[维基](https://github.com/dylanaraps/neofetch/wiki)\]
 
 ## 文章
