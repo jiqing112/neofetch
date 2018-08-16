@@ -27,7 +27,7 @@
 
 <br><br><br><br>
     
-### 更多信息: \[[依赖](https://github.com/dylanaraps/neofetch/wiki/Dependencies)\] \[[安装](https://github.com/dylanaraps/neofetch/wiki/Installation)\] \[[维基](https://github.com/dylanaraps/neofetch/wiki)\]
+### 更多信息: \[[依赖](https://github.com/jiqing112/neofetch/wiki/Dependencies)\] \[[安装](https://github.com/jiqing112/neofetch/wiki/Installation)\] \[[维基](https://github.com/jiqing112/neofetch/wiki)\]
 
 ## 文章
 
